@@ -1,1 +1,13 @@
 /* your code */
+table,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:5px 20px;
+}	
+.para{
+	background-color:royalblue;
+	color:white;
+}
+.color{
+	background-color:lightgray;
+}
