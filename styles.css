@@ -1,8 +1,12 @@
 /* your code */
 table{
-	border:1px solid black;
+	width:100%;
 	border-collapse:collapse;
 }	
+th,td{
+	  padding:8px;
+	  text-align:left;
+}
 .para{
 	background-color:royalblue;
 	color:white;
