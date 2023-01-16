@@ -1,12 +1,15 @@
 /* your code */
-table,td,th{
+table{
 	border:1px solid black;
 	border-collapse:collapse;
-	padding:5px 20px;
 }	
 .para{
 	background-color:royalblue;
 	color:white;
+}
+#table{
+	padding:100px;
+	border-radius:10px;
 }
 .color{
 	background-color:lightgray;
